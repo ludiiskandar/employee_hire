@@ -10,7 +10,7 @@
 ---
 ### Project Overview
 
-This data analysis project aims to provide insights into the covid 19 in Indonesia over the past year. By analyzing various aspects of the data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the employees hired over the past year. By analyzing various aspects of the data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the hiring employees
 ![Employee Hires](https://github.com/user-attachments/assets/b27df8ce-7b7c-44be-94ee-9a3b5a35fb3e)
 [Employee Hires.pdf](https://github.com/user-attachments/files/18279095/Employee.Hires.pdf)
 
@@ -60,7 +60,7 @@ I had to remove all zero values from budget and revenue columns because they wou
 ---
 ### References
 1. SQL for data analysis
-2. (https://stack.com)](https://github.com/Gaelim/youtube/blob/master/Data%20Analysis%20Project%20November%202024%20-%20Copy.zip)
+2. https://www.kaggle.com/
 
 😄
 
